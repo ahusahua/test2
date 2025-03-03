@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <o:DocumentProperties>
+  <o:Author>PC</o:Author>
+  <o:Created>2025-03-03T11:44:10Z</o:Created>
+  <o:LastSaved>2025-03-03T11:44:10Z</o:LastSaved>
+ </o:DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S21" ss:Name="Hiperłącze">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#0563C1" ss:FontName="Calibri" ss:Size="11" ss:Underline="Single" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+   <ss:NumberFormat ss:Format="@" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Vertical="Bottom" ss:WrapText="1" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+   <ss:NumberFormat ss:Format="@" />
+  </Style>
+  <Style ss:ID="S24" ss:Parent="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#0563C1" ss:FontName="Calibri" ss:Size="11" ss:Underline="Single" />
+   <ss:NumberFormat ss:Format="@" />
+  </Style>
+  <Style ss:ID="S25">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="11" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Arkusz1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="7" ss:ExpandedColumnCount="23">
+   <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="69.75" />
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="87.75" />
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="121.5" />
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="136.5" />
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="135" />
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="134.25" />
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="94.5" />
+   <Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="225.75" />
+   <Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="224.25" />
+   <Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="223.5" />
+   <Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="240.75" />
+   <Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="69" />
+   <Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="54" />
+   <Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="69.75" />
+   <Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="144.75" />
+   <Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="100.5" />
+   <Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="49.5" />
+   <Column ss:Index="18" ss:Span="1" ss:AutoFitWidth="0" ss:Width="47.25" />
+   <Column ss:Index="20" ss:AutoFitWidth="0" ss:Width="44.25" />
+   <Column ss:Index="21" ss:AutoFitWidth="0" ss:Width="63" />
+   <Column ss:Index="22" ss:AutoFitWidth="0" ss:Width="82.5" />
+   <Column ss:Index="23" ss:AutoFitWidth="0" ss:Width="108" />
+   <Row ss:Index="1">
+    <Cell><Data ss:Type="String">category-id</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">category-name</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title-ru</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title-lv</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">title-ee</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description-ru</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description-lv</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">long-description-ee</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">video-youtube</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">id</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">value</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">colour-title</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">url</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">modification-title</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">weight</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">length</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">height</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">width</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">barcode</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">supplier-code</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">manufacturer-code</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2" ss:Height="409.5">
+    <Cell ss:StyleID="S25"><Data ss:Type="Number">4039</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Men's panties, boxers</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">Vyriški bokseriai Jack&amp;Jones, įvairiaspalviai, medvilnė, 8 vnt.</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Мужские боксеры Jack&amp;Jones, многоцветные, хлопок, 8 шт.</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Vīriešu bokseri Jack&amp;Jones, dažādi, kokvilna, 8 gab.</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Meeste bokserid Jack&amp;Jones, erinevad värvid, puuvill, 8 tk.</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">&lt;h3&gt;Vyri&amp;scaron;kos Jack&amp;amp;Jones kelnaitės, 8 vnt.&lt;/h3&gt;&#10;&lt;h4&gt;Medžiaga:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;95% medvilnė&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;5% elastanas&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Produkto savybės:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Produktas kilęs i&amp;scaron; oficialios platinimo&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Jack &amp;amp; Jones prekės ženklas yra žinomas dėl puikios kokybės, &amp;scaron;iuolaikinio dizaino ir ypatingo komforto&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;8 vnt pakuotėje suteikia daugiau lankstumo &amp;ndash; daugiau kelnaičių rei&amp;scaron;kia mažiau rūpesčių dėl skalbimo ar trūkumo spintoje&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Įvairiaspalvės kelnaitės su būdingu &amp;quot;Jack &amp;amp; Jones&amp;quot; logotipu ant gumos rodo klasikinę eleganciją su sporti&amp;scaron;ku akcentu&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Kvėpuojanti ir elastinga medžiaga&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Plati, elastinga juosta užtikrina puikų prigludimą prie kūno&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Jack&amp;amp;Jones kelnaitės yra skirtos kasdieniam naudojimui&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Pakuotė:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Produktas supakuotas į kartoninę dėžutę&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;I&amp;scaron;matavimai (i&amp;scaron;tiestame variante):&lt;/h4&gt;&#10;&lt;h5&gt;Dydis S:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Juosmens plotis: 33-48 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;I&amp;scaron;orinis kelnių ilgis: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidinis kelnių ilgis: 5 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Dydis M:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Juosmens plotis: 35-53 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;I&amp;scaron;orinis kelnių ilgis: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidinis kelnių ilgis: 5 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Dydis L:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Juosmens plotis: 37-56 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;I&amp;scaron;orinis kelnių ilgis: 26 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidinis kelnių ilgis: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Dydis XL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Juosmens plotis: 37-60 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;I&amp;scaron;orinis kelnių ilgis: 26 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidinis kelnių ilgis: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Dydis XXL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Juosmens plotis: 40-64 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;I&amp;scaron;orinis kelnių ilgis: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidinis kelnių ilgis: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">&lt;p&gt;Мужские трусы Jack&amp;amp;Jones, 8 шт.&lt;/p&gt;&#10;&lt;h4&gt;Материал:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;95% хлопок&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;5% эластан&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Характеристики продукта:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Продукт поступает из официальной дистрибьюции&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Бренд Jack &amp;amp; Jones ассоциируется с отличным качеством, современным дизайном и исключительным комфортом&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;8 штук в упаковке позволяет гибкость &amp;ndash; больше трусов, меньше беспокойств о стирке и нехватке в гардеробе&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Многоцветные трусы с характерным логотипом &amp;quot;Jack &amp;amp; Jones&amp;quot; на резинке представляют классическую элегантность с оттенком спортивного характера&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Дышащий и эластичный материал&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Широкая, эластичная резинка обеспечивает идеальное прилегание трусов к фигуре&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Трусы Jack&amp;amp;Jones разработаны для повседневного использования&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Упаковка:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Продукт упакован в картонную коробку&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Размеры (в разложенном состоянии):&lt;/h4&gt;&#10;&lt;h5&gt;Размер S:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Ширина талии: 33-48 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внешнего шва: 27 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внутреннего шва: 5 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Размер M:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Ширина талии: 35-53 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внешнего шва: 27 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внутреннего шва: 5 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Размер L:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Ширина талии: 37-56 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внешнего шва: 26 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внутреннего шва: 6 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Размер XL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Ширина талии: 37-60 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внешнего шва: 26 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внутреннего шва: 6 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Размер XXL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Ширина талии: 40-64 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внешнего шва: 27 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Длина внутреннего шва: 6 см&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">&lt;h3&gt;Vīrie&amp;scaron;u Jack&amp;amp;Jones apak&amp;scaron;bikses, 8 gab.&lt;/h3&gt;&#10;&lt;h4&gt;Materiāls:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;95% kokvilna&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;5% elastāns&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Produkta īpa&amp;scaron;ības:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Produkts ir no oficiālās izplatī&amp;scaron;anas&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Jack &amp;amp; Jones zīmols jau daudzus gadus tiek asociēts ar lielisku kvalitāti, modernu dizainu un izcilu komfortu&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;8 gab iepakojumā nodro&amp;scaron;ina lielāku elastību &amp;ndash; vairāk apak&amp;scaron;bik&amp;scaron;u nozīmē mazāk rūpju par to mazgā&amp;scaron;anu un trūkumu garderobē&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Daudzkrāsainas apak&amp;scaron;bikses ar raksturīgu &amp;quot;Jack &amp;amp; Jones&amp;quot; logotipu uz gumijas pārstāv klasisku eleganci ar sportisku raksturu&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Elpojo&amp;scaron;s un elastīgs materiāls&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Plata, elastīga gumija nodro&amp;scaron;ina apak&amp;scaron;bik&amp;scaron;u ideālu piegul&amp;scaron;anu ķermenim&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Jack&amp;amp;Jones apak&amp;scaron;bikses ir paredzētas ikdienas lieto&amp;scaron;anai&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Iepakojums:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Produkts ir iepakots kartona kastē&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Izmēri (izstieptā variantā):&lt;/h4&gt;&#10;&lt;h5&gt;Izmērs S:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidukļa platums: 33-48 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Bikses ārējais garums: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Iek&amp;scaron;ējā kājas garums: 5 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Izmērs M:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidukļa platums: 35-53 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Bikses ārējais garums: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Iek&amp;scaron;ējā kājas garums: 5 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Izmērs L:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidukļa platums: 37-56 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Bikses ārējais garums: 26 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Iek&amp;scaron;ējā kājas garums: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Izmērs XL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidukļa platums: 37-60 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Bikses ārējais garums: 26 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Iek&amp;scaron;ējā kājas garums: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Izmērs XXL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Vidukļa platums: 40-64 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Bikses ārējais garums: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Iek&amp;scaron;ējā kājas garums: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S23"><Data ss:Type="String">&lt;p&gt;Meeste Jack&amp;amp;Jones alusp&amp;uuml;ksid, 8 tk.&lt;/p&gt;&#10;&lt;h4&gt;Materjal:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;95% puuvill&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;5% elastaan&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Toote&amp;nbsp;omadused:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Toode on p&amp;auml;rit ametlikust turustuskanalist&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Jack &amp;amp; Jones br&amp;auml;nd on tuntud suurep&amp;auml;rase kvaliteedi, kaasaegse disaini ja erakordse mugavuse poolest&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;8 tk pakendis v&amp;otilde;imaldab suuremat paindlikkust &amp;ndash; rohkem alusp&amp;uuml;kse t&amp;auml;hendab v&amp;auml;hem muret pesemise ja nende puudumise p&amp;auml;rast&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Mitmev&amp;auml;rvilised alusp&amp;uuml;ksid iseloomuliku &amp;quot;Jack &amp;amp; Jones&amp;quot; logoga kummil esindavad klassikalist elegantsi sportliku aktsendiga&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Hingav ja elastne materjal&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Lai, elastne kumm tagab alusp&amp;uuml;kste ideaalse sobivuse kehaga&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Jack&amp;amp;Jones alusp&amp;uuml;ksid on loodud igap&amp;auml;evaseks kasutamiseks&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;Pakend:&lt;/h4&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;Toode on pakitud kartongkarpi&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h4&gt;M&amp;otilde;&amp;otilde;tmed&amp;nbsp;(venitatuna):&lt;/h4&gt;&#10;&lt;h5&gt;Suurus&amp;nbsp;S:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;V&amp;ouml;&amp;ouml; laius: 33-48 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste v&amp;auml;lispikkus: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste sisepikkus: 5 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Suurus&amp;nbsp;M:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;V&amp;ouml;&amp;ouml; laius: 35-53 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste v&amp;auml;lispikkus: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste sisepikkus: 5 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Suurus&amp;nbsp;L:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;V&amp;ouml;&amp;ouml; laius: 37-56 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste v&amp;auml;lispikkus: 26 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste sisepikkus: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Suurus&amp;nbsp;XL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;V&amp;ouml;&amp;ouml; laius: 37-60 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste v&amp;auml;lispikkus: 26 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste sisepikkus: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;h5&gt;Suurus&amp;nbsp;XXL:&lt;/h5&gt;&#10;&lt;ul&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;V&amp;ouml;&amp;ouml; laius: 40-64 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste v&amp;auml;lispikkus: 27 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;    &lt;li&gt;&#10;        &lt;p&gt;P&amp;uuml;kste sisepikkus: 6 cm&lt;/p&gt;&#10;    &lt;/li&gt;&#10;&lt;/ul&gt;&#10;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</Data>
+    </Cell>
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:Index="22" ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:StyleID="S25"><Data ss:Type="Number">4039</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Men's panties, boxers</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S23" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22"><Data ss:Type="String">S</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.60</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.40</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.10</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.20</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">5715518076298</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">SS25_JJ9926_MIX7_S</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:StyleID="S25"><Data ss:Type="Number">4039</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Men's panties, boxers</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S23" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22"><Data ss:Type="String">M</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.60</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.40</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.10</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.20</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">5715518088239</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">SS25_JJ9926_MIX7_M</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+   </Row>
+   <Row ss:Index="5">
+    <Cell ss:StyleID="S25"><Data ss:Type="Number">4039</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Men's panties, boxers</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S23" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22"><Data ss:Type="String">L</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.60</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.40</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.10</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.20</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">5715518076359</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">SS25_JJ9926_MIX7_L</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:StyleID="S25"><Data ss:Type="Number">4039</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Men's panties, boxers</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S23" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22"><Data ss:Type="String">XL</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.60</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.40</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.10</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.20</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">5715518076366</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">SS25_JJ9926_MIX7_XL</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+   </Row>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="S25"><Data ss:Type="Number">4039</Data>
+    </Cell>
+    <Cell ss:StyleID="S25"><Data ss:Type="String">Men's panties, boxers</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S23" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S24" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22" />
+    <Cell ss:StyleID="S22"><Data ss:Type="String">XXL</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.60</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.40</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.10</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.20</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">5715518076373</Data>
+    </Cell>
+    <Cell ss:StyleID="S22"><Data ss:Type="String">SS25_JJ9926_MIX7_XXL</Data>
+    </Cell>
+    <Cell ss:StyleID="S22" />
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Zoom>70</Zoom>
+   <PageSetup>
+    <Header x:Margin="0.3" />
+    <Footer x:Margin="0.3" />
+    <PageMargins x:Top="0.75" x:Bottom="0.75" x:Left="0.7" x:Right="0.7" />
+   </PageSetup>
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <LeftColumnVisible>6</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+     <RangeSelection>R13C7</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
